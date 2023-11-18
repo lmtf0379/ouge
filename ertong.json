@@ -283,7 +283,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./Bilibili/UP主.php"
+      "ext": "./a3/UP主.php"
     },
     {
       "key": "MV",
@@ -303,7 +303,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./Bilibili/美食.php"
+      "ext": "./a3/美食.php"
     },
     {
       "key": "drpy_js_榜单荐片4",
