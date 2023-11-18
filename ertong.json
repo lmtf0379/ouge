@@ -263,7 +263,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./a3/菜单.php"
+      "ext": "./Bilibili/菜单.php"
     },
     {
       "key": "球类",
@@ -283,7 +283,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./a3/UP主.php"
+      "ext": "./Bilibili/UP主.php"
     },
     {
       "key": "MV",
